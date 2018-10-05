@@ -1,0 +1,5 @@
+__nmap__  - used for host discovery on local network
+« nmap -sn [ip network] » Host discovery ping scan
+« nmap -sT [target host] » TCP connect scan
+« nmap -sS [target host] » TCP SYN scan
+« nmap -sU [target host] » UDP port scan
